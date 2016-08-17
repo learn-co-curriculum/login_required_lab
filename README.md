@@ -31,3 +31,7 @@ Happy coding.
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/login_required_lab'>Login Required Lab</a> on Learn.co and start learning to code for free.</p>
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/login_required_lab'>Login Required Lab</a> on Learn.co and start learning to code for free.</p>
+
+<a href='https://www.youtube.com/watch?v=gB7lYvfL4J4'>TODOMVC - Authentication in Rials - LV
+</a> 
+
